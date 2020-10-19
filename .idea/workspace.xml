@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8658c49-2ca9-4e32-801c-d06eab157820" name="Default Changelist" comment="commit 19.10.20 09.54" />
+    <list default="true" id="a8658c49-2ca9-4e32-801c-d06eab157820" name="Default Changelist" comment="commit ишки">
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,9 +31,13 @@
   <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15.3" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1ixIZwxIgWV6oUsFFE50WQklCAs" />
   <component name="ProjectLevelVcsManager">
@@ -44,6 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,17 +76,29 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit 18.10.20 23.15" />
     <MESSAGE value="commit 19.10.20 09.54" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 19.10.20 09.54" />
+    <MESSAGE value="commit ишки" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit ишки" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
     <state x="2391" y="486" width="410" height="141" key="#GOROOT" timestamp="1603037494905">
       <screen x="1600" y="0" width="1920" height="1080" />
     </state>
     <state x="2391" y="486" width="410" height="141" key="#GOROOT/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1603037494905" />
-    <state x="2191" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603090481354">
+    <state x="1818" y="110" width="1536" height="901" key="DiffContextDialog" timestamp="1603098142179">
       <screen x="1600" y="0" width="1920" height="1080" />
     </state>
-    <state x="2191" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1603090481354" />
+    <state x="1818" y="110" width="1536" height="901" key="DiffContextDialog/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1603098142179" />
+    <state x="2191" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603098147587">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2191" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1603098147587" />
+    <state x="2377" y="468" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603098875235">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2377" y="468" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1603098875235" />
     <state x="2286" y="292" width="620" height="522" key="find.popup" timestamp="1603045103025">
       <screen x="1600" y="0" width="1920" height="1080" />
     </state>
