@@ -1,2 +1,4 @@
+github.com/collinux/watermark v0.0.0-20180119182120-85699970d2cd h1:Lb/95foG5NtBXali2e9heqeMYZ7JWJbvm2GnB0XawSI=
+github.com/collinux/watermark v0.0.0-20180119182120-85699970d2cd/go.mod h1:CQstxEGjKjMq4/bxebfrENjK67ehQsuI1kG5joRjzLc=
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
